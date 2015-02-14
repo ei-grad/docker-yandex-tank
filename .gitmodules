@@ -1,0 +1,6 @@
+[submodule "yandex-tank"]
+	path = yandex-tank
+	url = https://github.com/yandex/yandex-tank.git
+[submodule "yatank-online"]
+	path = yatank-online
+	url = https://github.com/yandex-load/yatank-online.git
